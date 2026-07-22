@@ -15,6 +15,7 @@
     "datetime": {
         "date": "2026-7-30",
         "startTime": "04:00 PM - 07:00 PM",
+        "endTime":,
         "timezone": "local",
         "allDay": false
     },
