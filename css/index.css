@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap');
 :root {
     --bg-base: #050505;
     --text: #ffffff;
@@ -7,8 +8,8 @@
     --accent: #60a5fa;
     --link: #93c5fd;
 
-    --font-heading: 'Outfit', sans-serif;
-    --font-body: 'Outfit', sans-serif;
+    --font-heading: 'Cairo', sans-serif;
+    --font-body: 'Cairo', sans-serif;
 
     --radius: 16px;
     --glass-bg: rgba(255, 255, 255, 0.03);
