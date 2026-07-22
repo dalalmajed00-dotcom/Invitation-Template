@@ -1,0 +1,73 @@
+{
+    "_meta_comment": "TEMPLATE CONFIGURATION",
+    "meta": {
+        "version": "1.1",
+        "private": false,
+        "simpleMode": true,
+        "showSimpleModeToggle": false,
+        "countdown": true
+    },
+    "event": {
+        "title": "Dalal's Graduation",
+        "subtitle": "ِـي يومٍ مُختلِف و ليلــة مبهــرة بـكلِّ الفَرحــة و الــود أدعوكــم لـمشاركتـي حـفل تخرجــي",
+        "description": ""
+    },
+    "datetime": {
+        "date": "2026-07-30",
+        "startTime": "04:00 PM",
+        "endTime": "07:00 PM",
+        "timezone": "local",
+        "allDay": false
+    },
+    "location": {
+        "name": "ديوان عشيرة البطارسة",
+        "address": "ضاحية الرشيد-خلف سكن أميمة",
+        "mapsLink": "https://maps.app.goo.gl/rJ5k4FzYmjZyFhbAA"
+    },
+    "schedule": [],
+    "rsvp": {
+        "enabled": false,
+        "url": ""
+    },
+    "calendar": {
+        "enabled": true,
+        "providers": {
+            "google": true
+        }
+    },
+    "design": {
+        "theme": "light",
+        "accentColor": "#C5A46D",
+        "heroImages": [
+            "https://ibb.co/d4jcQx0S",
+            "https://ibb.co/ZpMCVbmj"
+        ],
+        "sectionBackgrounds": [
+            "https://ibb.co/ycgcP8C4"
+        ]
+    },
+    "music": {
+        "enabled": false,
+        "loop": false,
+        "volume": 0.3,
+        "audioUrl": ""
+    },
+    "footer": {
+        "text": "Your presence will make this day even more special !",
+        "branding": {
+            "link": "#",
+            "logoUrl": "",
+            "logoAlt": "Logo"
+        },
+        "credits": {
+            "designByLabel": "Created & Designed by",
+            "copyrightYear": "2026",
+            "authorName": "Dalal Majed",
+            "templateLabel": "Template by",
+            "templateAuthor": "Rainier Pearson Saputra",
+            "templateLink": "https://rainier-ps.github.io/",
+            "repoLabel": "Open Repository",
+            "repoLink": "https://github.com/Rainier-PS/Invitation-Template"
+        }
+    }
+}
